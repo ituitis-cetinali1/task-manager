@@ -1,0 +1,4 @@
+html, body, #app, #app>div {
+    height: 100vh;
+    background-image: url('./img/bgimage1.jpg');
+  }
